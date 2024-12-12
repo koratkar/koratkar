@@ -10,10 +10,9 @@ Email me: ishaan[at]koratkar.com. I love getting mail and making new friends on 
 Find me on [twitter](https://x.com/whybyfire).  
 My discord username: @whybyfire
 
-More specifically: web development
-
 Projects:
 * [Conversations with Tyler semantic search](https://koratkar.github.io/cwt-semantic-search/)
+   * Featured on [Marginal Revolution](https://https://marginalrevolution.com/marginalrevolution/2024/12/wednesday-assorted-links-482.html)!
    * To build this, I scraped the transcript log of Conversations with Tyler, embedded them using OpenAI text-embedding-3-small, uploaded them to a Cloudflare vectorize index, and used a Cloudflare worker to retrieve the embeddings.
    * Why this showcases technical skills: required resourcefulness, testing each part of Cloudflare systems which I hadn't used prior, and debugging arcane errors in a systematic fashion.
    * Why this transfers to reducing costs & making profits go up: I built the system for under 10¢, researching several options to find the cheapest overall means. I also chose a podcast that many people listen to and would like to have search access to.
