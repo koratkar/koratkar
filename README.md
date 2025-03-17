@@ -2,7 +2,7 @@
 
 Hi, I'm Ishaan Koratkar. 
 
-Hire me if you want to win. My skills are: making costs go down, making profits go up.
+My skills are: making costs go down, making profits go up.
 
 I'm 18 years old and attend the University of Minnesota in Minneapolis. I'm currently set to major in statistics.
 
