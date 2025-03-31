@@ -6,9 +6,11 @@ My skills are: making costs go down, making profits go up.
 
 I'm 18 years old and attend the University of Minnesota in Minneapolis. I'm currently set to major in statistics.
 
-Email me: ishaan[at]koratkar.com. I love getting mail and making new friends on the internet! Feel free to ping me anything from a short intro to longer questions or any random ideas.
+Email me: ishaan[at]koratkar.com. 
 Find me on [twitter](https://x.com/whybyfire).  
 My discord username: @whybyfire
+
+I love getting mail and making new friends on the internet! Feel free to ping me anything from a short intro to longer questions or any random ideas.
 
 Projects:
 * [Conversations with Tyler semantic search](https://koratkar.github.io/cwt-semantic-search/)
