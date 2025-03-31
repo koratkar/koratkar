@@ -6,7 +6,7 @@ My skills are: making costs go down, making profits go up.
 
 I'm 18 years old and attend the University of Minnesota in Minneapolis. I'm currently set to major in statistics.
 
-Email me: ishaan[at]koratkar.com. I love getting mail and making new friends on the internet!  
+Email me: ishaan[at]koratkar.com. I love getting mail and making new friends on the internet! Feel free to ping me anything from a short intro to longer questions or any random ideas.
 Find me on [twitter](https://x.com/whybyfire).  
 My discord username: @whybyfire
 
@@ -31,3 +31,4 @@ Courses & books:
 My goals:
 * Become an ML engineer
 * Master the computer on the spectrum of understanding integrated circuits, assembly language, and how computers interact over networks
+* Understand how the world works, especially regarding supply chains and how resources are most effectively deployed
