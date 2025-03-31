@@ -6,7 +6,7 @@ My skills are: making costs go down, making profits go up.
 
 I'm 18 years old and attend the University of Minnesota in Minneapolis. I'm currently set to major in statistics.
 
-Email me: ishaan[at]koratkar.com. 
+Email me: ishaan[at]koratkar.com.  
 Find me on [twitter](https://x.com/whybyfire).  
 My discord username: @whybyfire
 
