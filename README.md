@@ -1,11 +1,11 @@
 # Hi, I'm Ishaan Koratkar
 
-**Statistics student at University of Minnesota**
+**Computer Science at University of Minnesota, Year of 2028**
 
 ## Contact Me
-- 📧 Email: ishaan[at]koratkar.com
-- 🐦 Twitter: [@whybyfire](https://x.com/whybyfire)
-- 💬 Discord: @whybyfire
+- Email: ishaan[at]koratkar.com
+- Twitter: [@whybyfire](https://x.com/whybyfire)
+- Discord: @whybyfire
 
 *I love getting mail and making new friends on the internet! Feel free to ping me anything from a short intro to longer questions or any random ideas.*
 
@@ -23,7 +23,7 @@
 
 ## Education & Learning
 
-**University of Minnesota, Twin Cities** - Statistics Major (Current)
+**University of Minnesota, Twin Cities** - Computer Science Major (Current)
 
 **Continuous Learning:**
 - Fast.AI (in progress)
